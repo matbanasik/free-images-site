@@ -1,0 +1,8 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-thumbs-up:before { content: '\e801'; } /* '' */
+.icon-search-1:before { content: '\e802'; } /* '' */
+.icon-search:before { content: '\e805'; } /* '' */
+.icon-html5:before { content: '\e806'; } /* '' */
+.icon-css:before { content: '\e807'; } /* '' */
+.icon-camera:before { content: '\e808'; } /* '' */

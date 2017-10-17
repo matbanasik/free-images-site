@@ -5,6 +5,7 @@ html{
 		width: 100%;
 		font-family: 'Lato', sans-serif;
 		margin: 0;
+        overflow-x: hidden;
 		
 		.page-header{
 			height: 400px;
@@ -899,9 +900,7 @@ html{
 				display: none;
 			}
 				
-				.persp-img-7{
-				display: none;
-			}
+			
 			
 			.persp-img-8{
 				display: none;
@@ -922,6 +921,11 @@ html{
 					&:nth-of-type(6){
 						left: 30% !important;
 						}
+                
+                &:nth-of-type(7){
+						left: 40% !important;
+						}
+
 
 				
 					
